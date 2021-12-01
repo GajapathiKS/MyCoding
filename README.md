@@ -16,6 +16,7 @@ I Love to be creative along with my general development, here are some of my cre
 
 #Logos which i designed
 ![f3_logo2](https://user-images.githubusercontent.com/64843288/144279475-0361b373-1509-43e0-aaf7-51db2202228f.png)
-![image](https://user-images.githubusercontent.com/64843288/144281488-eefb407f-9874-4397-ba34-dda9acfd9b51.png)
+<img width="566" alt="image" src="https://user-images.githubusercontent.com/64843288/144282290-621dedd8-5053-43b4-8e7a-4a2bd8e023d9.png">
+
 
 
