@@ -15,10 +15,10 @@ I Love to be creative along with my general development, here are some of my cre
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/64843288/144278214-8f769303-225c-40fe-8b4c-783a53e41680.png">
 <img width="917" alt="image" src="https://user-images.githubusercontent.com/64843288/144279083-52ad9682-c608-4c15-ad48-430980627743.png">
 
-#Logos which i designed
+#Some of Logos which i designed
 
 <img width="566" alt="image" src="https://user-images.githubusercontent.com/64843288/144282290-621dedd8-5053-43b4-8e7a-4a2bd8e023d9.png">
-![f3_logo2](https://user-images.githubusercontent.com/64843288/144279475-0361b373-1509-43e0-aaf7-51db2202228f.png)
+<img src="https://user-images.githubusercontent.com/64843288/144279475-0361b373-1509-43e0-aaf7-51db2202228f.png"/>
 
 
 
